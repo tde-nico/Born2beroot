@@ -1,5 +1,16 @@
 # 42cursus - Born2beroot
 
+<!--
+#groups
+42
+
+#languages
+Bash
+
+#frames and libs
+
+-->
+
 ## Table of Contents
 1. [Introduction](#introduction)
     - [What is a Virtual Machine?](#Virtual-Machine)
