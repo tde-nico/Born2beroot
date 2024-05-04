@@ -1,6 +1,9 @@
 # 42cursus - Born2beroot
 
 <!--
+#field
+Learning
+
 #groups
 42
 
